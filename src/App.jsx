@@ -1,9 +1,9 @@
 import Header from "./Header";
-import Navbar from "./navbar/navbar";
+import Navbar from "./navbar/Navbar";
 import Footer from "./Footer";
 import { useState } from "react";
 import EmptyProducts from "./EmptyProducts";
-import Products from "./products";
+import Products from "./Products";
 
 
 function App() {
